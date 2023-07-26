@@ -47,5 +47,10 @@ void main()
 # Trophies
   <p align="left"> <a href="https://github.com/iammanoj-dev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammanoj-dev&theme=darkhub&row=2&column=4" alt="siammanoj-dev" /></a> </p>
 
+## Github Stats
+<div align=center>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammanoj-dev&theme=vue" alt="summary" />
+</div>
+
 # Contact me
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/manoj-bm-206244285)
