@@ -11,7 +11,7 @@ void main()
 ```
 
 
-- 🔭 I’m currently working on mobile app development
+- 🔭 I’m currently learning on mobile app development
 - 🤔 I’m looking for help with flutter
 - 💬 Ask me about dart and flutter
 - 😄 Pronouns: He/him
