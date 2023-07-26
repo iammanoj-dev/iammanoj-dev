@@ -32,9 +32,6 @@ void main()
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
-
-# Trophies
-  <p align="left"> <a href="https://github.com/iammanoj-dev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammanoj-dev&theme=darkhub&row=2&column=4" alt="siammanoj-dev" /></a> </p>
  
 
 ## Tools
@@ -45,3 +42,6 @@ void main()
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 </p>
+
+# Trophies
+  <p align="left"> <a href="https://github.com/iammanoj-dev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammanoj-dev&theme=darkhub&row=2&column=4" alt="siammanoj-dev" /></a> </p>
