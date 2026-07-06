@@ -1,59 +1,43 @@
-<!-- Your title -->
-## Hi, I'm Manoj BM, a B.Tech CSE Student 🎓 from Chennai, India.
+<!-- Title -->
+# Hi, I'm Manoj BM 👋  
+### 🎓 B.Tech CSE Student | 📊 Data Science & Analytics Enthusiast | 🇮🇳 India
 
-# About me 😊
+---
 
-```dart
-void main()
-{
-  while(noSuccess)
-    tryAgain();
-  while(Success)
-    improve();
-}
-```
+## 🚀 About Me
 
+```python
+def mindset():
+    while not_satisfied:
+        learn_data()
+        build_projects()
+        improve_skills()
+🔭 I’m currently exploring Data Science, Data Analytics & Machine Learning
+📊 Interested in turning data into meaningful insights
+🧠 Learning Python, SQL, Statistics, and Data Visualization
+🤝 Looking to collaborate on data-driven projects
+📫 Reach me at: iammanoj.dev@gmail.com
+😄 Pronouns: He/Him
+🧠 Skills & Tools
+🐍 Languages
 
-- 🔭 I’m currently learning on mobile app development
-- 🤔 I’m looking for help with flutter
-- 💬 Ask me about dart and flutter
-- 😄 Pronouns: He/him
-- 📫 How to reach me: iammanoj.dev@gmail.com;
- 
-# My strengths
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> </p>
 
-## Languages
+📊 Data Science & Analytics
+<p> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-44A1C5?style=for-the-badge"/> </p>
 
-<p>
-  <img width="10%" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img width="10%" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<p>
-		
-## Frameworks
+🤖 Learning / Exploring
+<p> <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Statistics-8E44AD?style=for-the-badge"/> </p>
 
-<p>
-  <img width="10%" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-	<img width="10%" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-	<img width="10%" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-</p>
- 
+🛠 Tools
+<p> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> </p>
 
-## Tools
+📈 GitHub Stats
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammanoj-dev&theme=vue"/> </div>
 
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-</p>
+🏆 GitHub Trophies
+<p> <img src="https://github-profile-trophy.vercel.app/?username=iammanoj-dev&theme=darkhub&row=2&column=4"/> </p>
 
-# Trophies
-  <p align="left"> <a href="https://github.com/iammanoj-dev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammanoj-dev&theme=darkhub&row=2&column=4" alt="siammanoj-dev" /></a> </p>
+📬 Connect with Me
 
-## Github Stats
-<div align=center>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammanoj-dev&theme=vue" alt="summary" />
-</div>
-
-# Contact me
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/manojbm1306)
+📧 Email: iammanoj.dev@gmail.com
