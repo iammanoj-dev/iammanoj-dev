@@ -16,7 +16,6 @@ def mindset():
 📊 I’m interested in turning data into meaningful insights
 🧠 Currently learning Python, SQL, Statistics, and Data Visualization
 🤝 Looking to collaborate on data-driven projects
-📫 Reach me at: iammanoj.dev@gmail.com
 😄 Pronouns: He/Him
 
 📬 Connect with Me
